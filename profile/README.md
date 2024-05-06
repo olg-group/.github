@@ -1,4 +1,4 @@
-# OLG Group
+# [OLG Group](https://olg-group.com/)
 The OLG Group is a consulting and software company. 
 
 ## Consulting
