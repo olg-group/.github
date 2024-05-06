@@ -6,7 +6,7 @@ We set the highest standards in advising companies on business and technological
 
 ## Software Development
 Our software development team distributes OLG Group's own developments and works on a project basis with corporate and private clients.
-We create software with modern technologies, designed to be user-friendly and easy to use. 
+We create software with modern technologies, designed to be user-friendly. 
 
 ## License
 Most of our open source projects are licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License 3</a>.
