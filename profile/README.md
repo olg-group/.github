@@ -1,3 +1,7 @@
+<p align=center>
+  <img src="https://github.com/olg-group.png" widht=312 height=312>
+</p>
+
 # [OLG Group](https://olg-group.com/)
 The OLG Group is a consulting and software company. 
 
