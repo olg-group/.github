@@ -1,5 +1,7 @@
 <p align=center>
-  <img src="https://github.com/olg-group.png" widht=312 height=312>
+  <a href="https://olg-group.com/">
+    <img src="https://github.com/olg-group.png" widht=312 height=312>
+  </a>
 </p>
 
 # [OLG Group](https://olg-group.com/)
